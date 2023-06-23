@@ -1,0 +1,26 @@
+button.pressButton{
+width:100px;
+height:30px;
+background: coral;
+font-style: italic;
+border-block-color: revert;
+border: aqua;
+white-space-collapse: break-spaces;
+margin-right: 5px;
+}
+#buttonsContainer {
+margin: 20px 0px 0px 0px;
+
+}
+
+button.customClass{
+margin: 5px;
+height: 20px;
+background: cadetblue;
+border: cadetblue;
+}
+
+#formInput.numberClass{
+background: darkseagreen;
+
+}
